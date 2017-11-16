@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_voting_app",
+  "version": "1.0.0",
+  "description": "Simple voting app using blockchain",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswhinn/blockchain_voting_app.git"
+  },
+  "author": "James Whinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameswhinn/blockchain_voting_app/issues"
+  },
+  "homepage": "https://github.com/jameswhinn/blockchain_voting_app#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "web3": "^0.20.1"
+  }
+}
